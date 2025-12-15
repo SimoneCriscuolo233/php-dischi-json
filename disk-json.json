@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "cover": "https://picsum.photos/400/300?random=1",
+    "year": 2000,
+    "genre": "Nu Metal"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "cover": "https://picsum.photos/400/300?random=2",
+    "year": 1980,
+    "genre": "Rock"
+  }
+]
